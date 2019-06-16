@@ -1,0 +1,94 @@
+*************
+*Weapon List*
+*************
+
+Axes
+----
+Name (Nickname)  Damage  Hands  Range  Special Effect 
+axe              4/6       1      1       --- 
+battle axe       8/6       2      1       --- 
+
+
+Bows & Arrows
+------------- 
+Name (Nickname)  Damage  Hands  Range  Special Effect 
+bow              2/2       1     1~?   --- 
+orcish bow       2/2       1     1~?   --- 
+elven bow        2/2       1     1~?   --- 
+yumi             2/2       1     1~?   --- 
+arrow            6/6      ---    ---   ---
+silver arrow     6/6      ---    ---   Effective against undead monsters. 
+
+
+Clubs
+-----
+Name (Nickname)  Damage  Hands  Range  Special Effect 
+athame           4/3       1      1    --- 
+morning star     4/6       1      1    --- 
+club             6/3       1      1    --- 
+flail            6/4       1      1    --- 
+mace             6/6       1      1    --- 
+quarterstaff     6/6       2      1    --- 
+
+
+Daggers
+-------
+Name (Nickname)  Damage  Hands  Range  Special Effect 
+stiletto         3/2       1      1    --- 
+orcish dagger    3/3       1      1    --- 
+dagger           4/3       1      1    --- 
+elven dagger     5/3       1      1    --- 
+
+
+Rifles
+------
+Name (Nickname)  Damage  Hands  Range  Special Effect 
+Rifle                   Not Available Yet
+
+
+Polearms
+--------
+Name (Nickname)   Damage  Hands  Range  Special Effect 
+bardiche          4/4       2     1~2   --- 
+ranseur           4/4       2     1~2   --- 
+voulge            4/4       2     1~2   --- 
+war hammer        4/4       1     1~2   --- 
+lucern hammer     4/6       2     1~2   --- 
+guisarme          4/8       2     1~2   --- 
+bill-guisarme     4/10      2     1~2   --- 
+orcish spear      5/8       1     1~2   --- 
+trident           6/4       1     1~2   --- 
+javelin           6/6       1     1~2   --- 
+partisan          6/6       2     1~2   --- 
+fauchard          6/8       2     1~2   --- 
+lance             6/8       1     1~2   --- 
+spear             6/8       1     1~2   --- 
+glavie            6/10      2     1~2   --- 
+elven spear       7/8       1     1~2   --- 
+bec de corbin     8/6       2     1~2   --- 
+dwarvish spear    8/8       1     1~2   --- 
+halberd           10/6      2     1~2   --- 
+unicorn horn(UNI) 12/12     2     1~2   --- 
+
+
+Swords
+------
+Name (Nickname)           Damage  Hands  Range  Special Effect 
+broadsword                4/6       1      1    --- 
+runesword                 4/6       1      1    --- 
+orcish short sword(OSS)   5/8       1      1    --- 
+short sword(SS)           6/8       1      1    --- 
+dwarvish short sword(DSS) 7/8       1      1    --- 
+elven short sword(ESS)    8/8       1      1    --- 
+scimitar                  8/8       1      1    --- 
+long sword (LS)           8/12      1      1    --- 
+katana (KAT)              10/12     1      1    --- 
+two handed sword          12/6      2      1    --- 
+tsurugi (TSU)             16/8      2      1    --- 
+
+
+For the latest information of Lineage, please visit:
+Lineage Info
+http://lineage.fsn.net
+
+Copyright (C) 1998 Gabriel Leung. All Right Reserved.

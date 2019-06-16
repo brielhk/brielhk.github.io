@@ -1,0 +1,92 @@
+***********
+*Item List*
+***********
+
+Potions
+-------
+Name (Nickname)  Name After Identify              Usage 
+blue potion        Not Available Yet 
+clear potion       Not Available Yet 
+cyan potion        Not Available Yet 
+green potion     potion of haste self             Make us walk and attack faster in 300~400 seconds. 
+                 blessed potion of haste self     Make us walk and attack faster in 400~600 seconds. 
+                 cursed potion of haste self      Make us walk and attack faster in 100~300 seconds. 
+opaque potion    potion of blindness              Make us blind in 450 seconds, all things will turn black. If we had eaten floating eye meat before, we can see players and monsters clearly. Moreover, if we are blind, no floating eye can freeze us. 
+                 blessed potion of blindness      Make us blind about 5 minutes, all things will turn black. If we had eaten floating eye meat before, we can see players and monsters clearly. Moreover, if we are blind, no floating eye can freeze us. 
+                 cursed potion of blindness       Make us blind in about 9 minutes, all things will turn black. If we had eaten floating eye meat before, we can see players and monsters clearly. Moreover, if we are blind, no floating eye can freeze us. 
+orange potion    potion of extra healing          Increase about 25 HP. 
+                 blessed potion of extra healing  Increase about 35 HP. 
+                 cursed potion of extra healing   Increase about 15 HP. 
+purple potion      Not Available Yet 
+red potion       potion of healing                Increase about 15 HP. 
+                 blessed potion of healing        Increase about 20 HP. 
+                 cursed potion of healing         Increase about 10 HP. 
+
+
+Scrolls
+-------
+Name                             Name After Identify                 Usage 
+scroll labeled KERNOD WEL        scroll of identify                  Identify item in order to see if an item is blessed, cursed or normal, and its enchant value. (+? or -?) 
+scroll labeled VENZAR BORGAVVE   scroll of teleportation             If we haven't equipped ring of teleport control, it will bring us to a random place. If we have equipped ring of teleport control, we can type in the location that we want to teleport to. (location is a pair of 5 digits number, we can type "/loc" to see the location) 
+scroll labeled PRATYAVAYAH       scroll of remove curse              Uncurse cursed item. 
+                                 blessed scroll of remove curse      Uncurse cursed item. 
+                                 cursed scroll of remove curse       Useless. 
+scroll labeled DAIYEN FOOELS     scroll of enchant weapon            Add 1 point to the enchant value of the weapon that we are wielding. 
+                                 blessed scroll of enchant weapon    Add 1~3 point(s) to the enchant value of the weapon that we are wielding. It will make the weapon become blessed as well. 
+                                 cursed scroll of enchant weapon     Withdraw 1 point from the enchant value of the weapon that we are wielding. It will make the weapon become cursed as well. 
+scroll labeled ZELGO MER         scroll of enchant armor             Add 1 point to the enchant value of one of the armor that we are wearing. 
+                                 blessed scroll of enchant armor     Add 1~3 point(s) to the enchant value of one of the armor that we are wearing. It will make the armor become blessed as well. 
+                                 cursed scroll of enchant armor      Withdraw 1 point from the enchant value of one of the armor that we are wearing. It will make the armor become cursed as well. 
+scroll labeled JUYED AWK YACC    scroll of destory armor             Destory one of the armor that we are wearing. 
+                                 blessed scroll of destory armor     Destory one of the armor that we are wearing. 
+                                 cursed scroll of destory armor      Useless. 
+scroll labeled VELOX NEB         scroll of resurrection              Resurrect target player or monster. 
+
+ 
+
+Wands
+----- 
+Name         Name After Identify      Usage 
+oak wand     wand of wishing          Wish for a item that we want. 
+pine wand    wand of create monster   Create a random monster near us. 
+maple wand   wand of polymorph        Turn target player into a random monster if the player doesn't wear ring of polymorph control. If the player worn ring of polymorph control, the player can type in the monster name that he/she want to be, or press "Esc" to avoid morphion. 
+ebony wand   wand of call lightning   Call lightning to damage target player. The damage is equal to the sum of 3 rolls of a 10 sides dice. (3~30) 
+
+
+Foods
+----- 
+Name               Nutrition   Remark 
+apple                 50       We cannot get this item normally. 
+banana                80       We cannot get this item normally. 
+carrot                50       We cannot get this item normally. 
+cream pie            100       We cannot get this item normally. 
+egg                   80       We cannot get this item normally. 
+floating eye meat    100       We can get this item from floating eye. 
+fortune cookie        40       We cannot get this item normally. 
+lembas wafer         800       We cannot get this item normally. 
+lemon                 50       We cannot get this item normally. 
+meat                   0       We can get this item from monsters, or buy from merchants. 
+orange                80       We cannot get this item normally. 
+pancake              200       We cannot get this item normally. 
+
+
+Lighting Devices
+----------------
+Name     Fuel   Usage 
+candle   600    Lighting around us about 10 mins. at night. 
+lamp     3000   Lighting around us about 50 mins. at night. 
+
+ 
+Miscellanea
+-----------
+Name   Usage 
+adena  Money in Lineage. 
+horn   ??? 
+key    ??? 
+
+
+For the latest information of Lineage, please visit:
+Lineage Info
+http://lineage.fsn.net
+
+Copyright (C) 1998 Gabriel Leung. All Right Reserved. 

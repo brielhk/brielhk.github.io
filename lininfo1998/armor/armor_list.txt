@@ -1,0 +1,91 @@
+************
+*Armor List*
+************
+
+Helmets
+-------
+Name (Nickname)          AC   Speical Effect 
+helmet                   -1   --- 
+orcish helm (OH)         -1   --- 
+elven leather helm       -1   --- 
+dwarvish iron helm(DIH)  -2   --- 
+
+
+Body Armor
+---------- 
+Name (Nickname)          AC    Special Effect 
+shirt                    ??    Not Available Yet 
+T-shirt                   0    You can wear T-shirt with other body armor. 
+leather jacket           -1    --- 
+leather armor            -2    --- 
+orcish ring mail(ORM)    -2    --- 
+studded leather armor    -3    --- 
+ring mail(RM)            -3    --- 
+scale mail(SM)           -4    --- 
+orcish chain mail(OCM)   -4    --- 
+chain mail(CM)           -5    --- 
+splint mail              -6    --- 
+banded mail              -6    --- 
+bronze plate mail        -6    --- 
+plate mail (PM)          -7    --- 
+crystal plate mail(CPM)  -7    ---
+dragon scale mail(DSM)   ??    Not Available Yet 
+
+
+Dragon Scales
+-------------
+Name                   Speicial Effect 
+black dragon scales    Not Available Yet 
+blue dragon scales     Not Available Yet
+gray dragon scales     Not Available Yet
+green dragon scales    Not Available Yet
+orange dragon scales   Not Available Yet
+red dragon scales      Not Available Yet
+white dragon scales    Not Available Yet
+yellow dragon scales   Not Available Yet
+ 
+
+Capes & Cloaks
+--------------
+Name (Nickname)                 AC   Special Effect 
+orcish cloak                     0   --- 
+dwarvish cloak                   0   --- 
+elven cloak                     -1   Monster cannot hear your walking sound. (Not working yet) 
+oilskin cloak                   -1   It will not rust. (???) 
+cloak of displacement(COD)      -1   Monsters and Players will see you in a different place. (Not working yet) 
+cloak of invisibility(COI)      -1   Monster and players cannot see you. (Not working yet) 
+cloak of magic resistance(COMR) -1   Resists Magic. 
+cloak of protection(COP)        -3   --- 
+
+
+Shields
+------- 
+Name (Nickname)             AC    Special Effect 
+small shield                -1    --- 
+orcish shield(OS)           -1    --- 
+Urak-hai shield             -1    --- 
+elven shield                -2    --- 
+large shield                -2    --- 
+dwarvish roundshield(DRS)   -2    --- 
+shield of reflection(SOR)   -2    Prevent from frozen. (Not working yet) 
+
+ 
+Boots
+-----
+Name (Nickname)   AC    Special Effect 
+low boots(Boots)  -1    ---
+ 
+
+Rings
+-----
+Name (Nickname)                 AC    Special Effect 
+ring                             0    --- 
+ring of teleport control(ROTC)   0    Work with scroll labeled VENZAR BORGAVVE (scroll of teleportation). After you use the scroll, you can type in the location of a place that you want to teleport to. 
+ring of polymorph control(ROPC)  0    Work with maple wand (wand of polymorph). If any players use maple wand to target you, you can type in the monster name that you want to be, or press "ESC" to aviod morphion. 
+
+
+For the latest information of Lineage, please visit:
+Lineage Info
+http://lineage.fsn.net
+
+Copyright (C) 1998 Gabriel Leung. All Right Reserved.
