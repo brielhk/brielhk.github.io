@@ -1,0 +1,3 @@
+document.writeln('<table bgcolor="#DDDDDD" border="0" cellspacing="0" cellpadding="5" width="100%"><tr><td>');
+document.writeln('<p align="center"><a href="../copyright.html">Copyright</a>(C)1998-2002 <a href="mailto:briel@lineage3d.com?subject=[Lineage3D] &body=請注意：郵件主旨必須包含"[Lineage3D]"標記，否則郵件會被自動刪除。Attention: Please include the "[Lineage3D]" tag in the subject line, otherwise your mail will be automatically deleted.">Gabriel Leung</a>. All Right Reserved.</p>');
+document.writeln('</td></tr></table>')

@@ -1,0 +1,195 @@
+------ LoA --------
+ 
+Line 2493 
+Line 2494 
+Line 2495 
+Line 2496 
+Line 2497 
+Line 2498 
+Line 2499 
+Line 2500 
+Line 2501 
+Line 2502--line 2500 in npcdef. 
+Under Construction 
+ 
+ 
+ 
+Benole 
+Alan 
+Toby 
+Kohath 
+Korah 
+Shari 
+Jane 
+Edward 
+Uriah 
+Josef 
+Rachel 
+Ruth 
+Rueben 
+Cronos 
+Dark Mage 
+Samuel 
+Phinehas 
+2522 
+Gnoll Elder 
+Faruuk 
+Rhynlok 
+Mazril 
+Bhaltezor 
+2528 
+Aamir 
+Ayize 
+Galiene 
+Daphne 
+Zarlok 
+Elazar 
+Amy 
+Issiac 
+Dwarven Miner 
+Skeleton Mage 
+Skeleton Wizard 
+Skeleton Sorcerer 
+Skeleton Spellcaster 
+Kronok 
+Bryzak 
+2544 
+2545 
+2546 
+2547 
+2548 
+2549 
+Carmelia 
+Emma 
+Lothar the Tutor 
+Manfred the Tutor 
+Inventory Tutor 
+Nutrition Tutor 
+Communication Tutor 
+Combat Tutor 
+Party Tutor 
+Interface Tutor 
+Magic Tutor 
+Class Tutor 
+NPC Tutor 
+Trade Tutor 
+Travel Tutor 
+2565 
+Rules Tutor 
+History Tutor 
+Quests Tutor 
+Heather 
+Heather 
+Makir 
+Skeleton Boots 
+Orcish Mage Ring 
+Mermaid's Ring 
+Dupelgenon's Ring 
+Dwarvish Ring 
+Lost Scroll 
+Wizard's Cap 
+Paagrio's Ring 
+Eva's Ring 
+Unknown Teleportation Scroll 
+Ruby Ring 
+Sapphire Ring 
+Moonstone Ring 
+Carnelian Ring 
+Lump of Metal 
+Bone Chip 
+Crooked Mana Staff 
+Health Potion 
+Are you new here? 
+Perhaps I can help. 
+Now you die! 
+Attack! 
+Gah! I've been ended! 
+*gasp* You've collapsed my lung... 
+I'll smash yer head! 
+...sweet death...take me... 
+...dead...again... 
+...You bully...I'm just a little goblin... 
+These humans think they can take our land? 
+We shall reclaim our homeland! 
+Kill those who oppose us! 
+Paagrio will give us strength! 
+You will never drive us from our homeland! 
+Ahh! I've been killed by a petty trickster! 
+Aurgh! You've defeated the great Zarlok! 
+C'mere! I'll take you down! 
+...Our magic...never dies... 
+...fear the dead... 
+...you do not know the true power of Gran Kain... 
+...we shall kill those who oppose us... 
+Crooked staff 
+Royal Nectar 
+Essence of Nobility 
+Eva's Robe 
+Eva's Cap 
+Eva's Cloak 
+Eva's Belt 
+Paagrio's Robe 
+Paagrio's Cap 
+Paagrio's Cloak 
+Paagrio's Belt 
+Eva's Staff 
+Paagrio's Staff 
+Teleport Scroll: Orc Town 
+Teleport Scroll: Ocean Floor 
+Teleport Scroll: Giran Market 
+Teleport Scroll: Oasis 
+Teleport Scroll: Oren Wastelands 
+Teleport Scroll: Skeleton Isle 
+Teleport Scroll: Warrior Valley 
+Teleport Scroll: Lair Of Valakas 
+Teleport Scroll: LoA Tournament 
+Engraved Visor 
+Engraved Breast Plate 
+Bejeweled Visor 
+Bejeweled Breast Plate 
+Elindaire's Staff 
+Serpent Scale 
+Elindaire's Orb 
+Ring of Protection 
+Troll Ring 
+Elven Tunic 
+Maphre's Ring 
+Maphre's Tunic 
+Maphre's Shield 
+Amulet of Maphre 
+Merman's Necklace 
+Sharkskin Belt 
+Paagrio's Plate Armor 
+Paagrio's Visor 
+Paagrios' Gloves 
+Sayha's Plate Armor 
+Sayha's Visor 
+Sayha's Gloves 
+Eva's Plate Armor 
+Eva's Visor 
+Eva's Gloves 
+Maphre's Plate Armor 
+Maphre's Visor 
+Maphre's Gloves 
+Chit 
+Staff Present 
+Sayha's Crossbow 
+Mithril Robe 
+Mithril Tunic 
+Cloak of Deception 
+Glarielle 
+Tutor 
+Grim Reaper 
+Baell Zaer 
+Rastian 
+Onetria 
+Testing Varmint 
+Testing Item 
+Aeolus 
+Sorcerer 
+Gunthar 
+Gorynn 
+Soria 
+Tiger 
+Teleport Scroll: Turtle Isle 
+KillGlance's Ring

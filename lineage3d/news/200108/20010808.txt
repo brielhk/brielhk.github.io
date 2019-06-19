@@ -1,0 +1,107 @@
+Destination Games Chat Log
+Written By Jagmas
+
+Auric: Greetings to everyone here tonight. This evening our guests are Richard Garriott, Starr Long, Jake Song and others. To our honored guests: Welcome!
+
+Lord_British: Greetings Friends! As Auric stated: I am here with Starr Long Producer Director of Ultima Online - the first successful large scale MMRPG, and Jake Song creator of Lineage - the #1 by far MMRPG with over 1.5 million accounts. Starr and I along with most of the recent staff involved with any recent Ultima have joined with Jake Song the creator of Lineage and other key staff that made that game, to build the most experienced online game development group in history... by far. We are very excited to be here tonight. This is our first chat together as NCsoft.
+
+DarkStarr: Hello everyone.
+
+Lord_British: Here in Austin we have built a team of about 50 people so far. About ? are devoted to re-tuning Lineage for the US and European markets and bringing online a world-class community support team before we put a big push on sales. The other ? of our staff is on the new project that we are code-naming Tabula Rasa.
+
+Auric: We will be taking questions throughout the hour to be answered right here. Please do not message our guest, as all PMs will be ignored. Kiara and Newton will be moderating the chat this evening. Kiara/Newton, the floor is yours.
+
+NewtonD: I will be your moderator this evening. To send questions send a private message to Cabot Etherman or Gawain and the questions will be picked from those submitted. Do not message myself or our guests.
+
+Tephirax - I'm one of those doubly burnt by the fall of UO2 and of Fallen Age, which was also a joint American/Korean project. One of the reasons for it's collapse was the difficulty they had in the transference of ideas from opposite sides of the world, that often the two cultures disagreed on what should be included. Do you have any plans on how you will make your partnership successful?
+
+DarkStarr: Very interesting question. The first step we have taken is to have Jake join us here in Austin to help lead our first game. The second step that is working so far is that both companies have the same goal which is to only make online games.
+
+Taerious - will destination games be reviving project X?
+
+Lord_British: Project X was the code name for the broad principles that we wanted for the second generation online RPG. That learning and those principles still apply, and have been revised as time has dictated, but still survives in the core ideals that part of our team brings to the new project. However, we have built the Tabula Rasa design specifics from scratch.
+
+ImaFreak - Will Destination Games make MMORPGs only? Or are you saying you just want online games in general? Also, when you say online games, do you mean games that are MAINLY online but have a single player option (Diablo 2 comes to mind)?
+
+DarkStarr: Right now the answer is we are only interested in doing games that are subscription based. If a game design presents itself that is similar to something like Diablo 2 but is a subscription based game we might consider it.
+
+LandSlide - The UO2 Development team was quite open and communicative with the fan community. Some studios have taken this approach, and others have not. Where does DG stand? And who is your community relations individual.
+
+Leilo: We certainly feel that open communication is a good thing, and are trying to build on that with the Lineage community, and eventually as Tabula Rasa comes closer to completion, with that community. And to answer the rest of the question, both Melantus and I are working on the community team here currently. :)
+
+Chlorthos_DragonShort - Mr. Garriot, what do you think of the numerous Ultima fan projects that have sprung up after the end of the venerable series? Do you encourage these projects? If so, what projects stand out as interesting to you?
+
+Lord_British: In fact, yes, very interesting! One sad thing about machine technology changing so quickly is that, no game survives for long. The machines and operating systems to operate them on go away. These Ultima clones and spinoffs are a great way to celebrate a fun first 20 years of RPG's! I'm very honored as well, by their existence.
+
+Warrion - Why is it that you are only interested in subscription-based games? Or by subscription-based do you simply mean MMORPGS?
+
+DarkStarr: The reason we are only interested in subscription based games is because of the difficulty and expenses associated with retail goods. Again I can imagine a game design that is not a MMORPG but is still sub based like a Diablo2 that is downloaded first and then content is periodically added justifying the subscription.
+
+Mattt - Can you explain the Theme Park Analagy a bit better? When I think of Theme Parks, I think of line ups and over priced food and admission. How will you avoid the pitfalls of themeparks, while still providing the good qualities of them?
+
+DarkStarr: Theme Park is really a metaphor for us to think about as we design the game. The reason we use that particular idea is that Theme Parks are set up to be easily navigable and centered around getting you from one fun activity to another. We want to take the good parts like exciting experiences sprinkled around nice social spaces. We don't want the bad parts like over priced food and standing in lines. In fact I think some current online games recreate the standing in line too long very nicely (camping). :)
+
+Dein: I would like to know what RG is doing to promote/advertise lineage. It seems nothing is being done. no advertisements/promotions. Nobody knows about lineage. :(
+
+Lord_British: You are correct, we are not advertising or promoting Lineage yet! That is by plan. NCsoft was advertising it before we joined them, but we have stopped for the time being. We have significant revamping to the product to do, and we are also staffing up a world class support organization. Only then will we relaunch Lineage. We will hit with lots of adds, free CD's on Mags, in game events, etc.
+
+Caliban - Could you explain a little about the events that may take place in tabula rasa? what sort of innovation will you be bringint to the mmorpg genre?
+
+DarkStarr: We are still very early in the design of TR but activities will include the standards of homesteading, adventuring, crafting, etc. I think our innovations will lie in how we design the game to make players feel special and in how we give equal weight to the social and adventuring aspects.
+
+Bilsabub - Can Lineage be considered dead with all these new games coming out? By this I mean will "minimal" work be done to keep the gamers craving for more until they release the new projects, by which will mark the death of Lineage.
+
+Jake: Lineage is still growing in Korea, Taiwan, HongKong. I think same thing will happen here in US after we relaunch Lineage in Fall. We're also planning to launch it in Japan. And we're adding more contents to every episode. :)
+Lord_British: I'd Like to add to Jake's remarks about Lineage. The changes we are making are mostly needs of the US market. Such as chat and help that were not needed in Asian game rooms. Even new player experiences etc. Interface and accessability. Even now, most every developer of Tabula Rasa is here playing Lineage on their own time. I know you will love it as we do, when we make these changes.
+
+Tempest - I'm sure everybody is dying for more info about tabula rasa... Any hints?
+
+DarkStarr: Again we are still very early in design so details are not so easy to come by. However one of the things we have committed to is a sense of the epic. Ultima's always captured that well and we are striving to bring 'big' ideas like the Virtues into the online space. To that end we have been busy figuring out how we can take things like Buddhism and other Eastern philosophies and make them fun and integral parts of the experience.
+
+Amer - Most successful products maintain themselves by keeping consumers in "anticipation". That is, looking forward to the next, better version. Is there anything you can tell us about the grand plan for Lineage? Is it just adding cities and monsters, or is there a larger design for it?
+
+Jake: We're doing episodic updates, in our original game design, there were 10 episodes. In episode 9, we are planning to add city of lake 'Haine' with under water dungeons, in episode 10, we will add Aden Castle which will complete our original game design. After that our future is open :)
+
+Rese - What does DarkStarr mean by things like Buddhism and other Eastern philosophies?
+
+DarkStarr: By citing things like Buddhism, etc. I am talking about integrating a code of conduct into the game itself. Much like how the Virtues were about how your character grew not only in strength but in ideals of behavior.
+DarkStarr: This ties into giving as much weight to the social side of the game as the adventuring.
+
+ImaFreak - What do you believe will help your games after a player has maxed his/her level? Will you be providing options like giving them a free year with the next game your create? In EQ, there was the GOD kills and plane raids, what will you offer, if any?
+
+Lord_British: I'd like to tell everyone about my favorite feature of Lineage. In my mind, one of the best features of Lineage is associated with its sub title. Lineage: The Blood Pledge. Blood Pledges are guild like constructs, though more permanent. Pledges can conquer castles and set taxation rates etc. Pledges that hold castles can become VERY powerful. It is a great elder game mechanic! Pledges that control territory are also a universal enemy, thus pledge wars make great ongoing battles across the land!
+DarkStarr: To add to LB's answer episodic content is also a great mechanic to keep players returning, maxed out or not.
+
+Don - Will you be implementing features in your future games that you had hope to accomplish with previous ones, but because of time and technology (not again) were unable to do so? -changing environments, habitats and echosystems, more immersive gameplay (just some examples). How do you plan to accomplish them?
+
+DarkStarr: Actually I got to try some of the ones you cited like ecosystems and such with UO. What I learned from that and contrasting examples of simpler games like Diablo was that immersive is not linked to how complicated your game systems are.
+Lord_British: We WILL ship a stable, well balanced game!!!
+DarkStarr: Simpler but deeper game features are often the most fun. Lots of work that happens behind the scenes is usually wasted IMO.
+
+Satellite - Question about Lineage: I have noticed that on the Korean test server there have been some changes to the female mage to make her movements more fluent. Can we expect this change for all characters and monsters? Im not sure if this is out of the current chat subject, but is there any information about Lineage 2?
+
+Jake: Yes, we're working on fluent character movement stuff. We'll change all player characters. :)
+
+MadCAtz - Lord_British what was your inital experiance that triggered your intrest in lineage? How was it from other games that you played and why did you make an effort to create a bond with NCsoft?
+
+Lord_British: What brought us to NCsoft and Lineage was their success. We were aware that Ultima Online was blown out of the water by Lineage in Korea. NCsoft has also done as a company, exactly what we would do. Ship a great game, go public, multiply your bets. For us to create world wide successes, we needed to join forces with NC. Also what we know of western markets is essential to NCsoft. We often bill this as a match made in heaven, and we believe it!
+
+starshot - Will Lineage get character sprites that reflect what items they are wearing?
+
+Jake: Yes, that's also planned. Not exactly showing your armor/weapon but with several level of armor stuff(light, heavy, etc.)
+
+Megyn - You mentioned that you'll be using more Eastern influences in this new project, does that mean this game will move more out of the Tolkein/medievel type period?
+
+DarkStarr: From the beginning we wanted to do something that was not medieval fantasy. We had all done it a lot and we wanted to explore other genres. As we are still writing the fiction it is not nailed down but it is more like a fantastical science fiction in a stylized contemporary world.
+
+Auric: Alas we must end the chat this evening. I'd like to announce a giveaway we will be having. With the help of our guests (as well as a few others) we have 4 sets of *signed* Destination Games and Lineage: The Blood Pledge posters. To register to win, go to http://www.ianstorm.com/contests/
+
+DarkStarr: Thank you everyone for coming tonight. I love getting to chat with all of you. As we develop our designs further I look forward to sharing our thoughts with you.
+
+Jake: Thank you ^^;
+
+Lord_British: In closing, I'd like to say thanks for the years of support through Origin and Ultima! It means a lot to me personally, and a lot to the team to know you are paying attention to us in our new endeavors. We have formed what is easily the most experienced development and support team in the world. We believe we can create great online games for you to play. We know that to succeed we need your involvement and support.
+
+We are working hard to please you, and create great new worlds for you to live in. That's why we are saying that NCsoft stands for the New Creators of Software Worlds!
+
+Auric: Thanks again to our honored guests. If you missed any of the chat this evening be sure to check http://www.ianstorm.com/ for a complete chat transcript. This closes this evenings event.
