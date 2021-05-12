@@ -1,3 +1,3 @@
 document.writeln('<table bgcolor="#DDDDDD" border="0" cellspacing="0" cellpadding="5" width="100%"><tr><td>');
-document.writeln('<p align="center"><a href="../copyright.html">Copyright</a>(C)1998-2002 <a href="mailto:briel@lineage3d.com?subject=[Lineage3D] &body=½Ðª`·N¡G¶l¥ó¥D¦®¥²¶·¥]§t"[Lineage3D]"¼Ð°O¡A§_«h¶l¥ó·|³Q¦Û°Ê§R°£¡CAttention: Please include the "[Lineage3D]" tag in the subject line, otherwise your mail will be automatically deleted.">Gabriel Leung</a>. All Right Reserved.</p>');
+document.writeln('<p align="center"><a href="../copyright.html">Copyright</a>(C)1998-2002 <a href="mailto:briel@lineage3d.com?subject=[Lineage3D] &body=è«‹æ³¨æ„ï¼šéƒµä»¶ä¸»æ—¨å¿…é ˆåŒ…å«"[Lineage3D]"æ¨™è¨˜ï¼Œå¦å‰‡éƒµä»¶æœƒè¢«è‡ªå‹•åˆªé™¤ã€‚Attention: Please include the "[Lineage3D]" tag in the subject line, otherwise your mail will be automatically deleted.">Gabriel Leung</a>. All Right Reserved.</p>');
 document.writeln('</td></tr></table>')
